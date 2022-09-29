@@ -1,0 +1,35 @@
+﻿Web Application
+---------------
+Every app works on Request--Response cycle.
+
+
+
+
+1) Server---- >port---> IIS server
+
+Development----->Asp.NET Development Server(IIS Express Edition)
+2) Multiple Clients
+
+
+
+ASP.NET Server Side Programming
+-------------------------------
+JSP,PHP etc
+All the controls will have a common attribute called as runat="server"
+														==============
+
+All the code will be running/executing on the server
+Server Side Code----> Server Side Programming
+
+----------------------------------------------------------
+
+Text---> button,textbox,label------what will be displayed.
+Name----> object name -----> 
+TextBox(id)-------> txtempid-----purpose 
+Button(id)------cant have a space
+Label(id)
+
+Employee empobj =new Employee()
+
+	      
+
